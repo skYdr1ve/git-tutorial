@@ -13,7 +13,6 @@
 3. Вам необходимо просмотреть практические видео-материалы [Git Workshop](https://youtu.be/Dlr_E7WfA08) (0.5 часа)
 4. Для практического задания ознакомиться с [документацией Markdown](https://guides.github.com/features/mastering-markdown/) - можно коротко посмотреть возможности и синтаксис, а более глубоко погрузиться на практике (0.5 часа)
 5. Короткий и понятный материал, как настроить github-pages в вашем репозитории: [ссылка на MDN](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages#%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_github), [официальная документация](https://pages.github.com/)
-6. Вам необходимо прочить и запомнить [требования к коммитам в RS School](https://docs.rs.school/#/git-convention)
 
 ## Задание
 1. Вам необходимо зарегистрироваться на [GitHub](https://github.com/) и установить [Git](https://git-scm.com/). Данная [статья](https://tproger.ru/translations/difference-between-git-and-github/) поможет понять разницу между Git и GitHub. Во время установки `Git` можете постоянно нажимать `Next`, кроме этого пункта новичкам очень сильно не нравиться Vim, но в большинстве случаев вы им пользоваться не будете.
