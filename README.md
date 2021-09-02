@@ -8,7 +8,7 @@
 6. Создадите собственную веб-страничку при помощи github-pages
 
 ## Теория 
-1. Небольшая статься про Git: [руccкий](https://proglib.io/p/git-for-half-an-hour) [english](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
+1. Небольшая статья про Git: [руccкий](https://proglib.io/p/git-for-half-an-hour) [english](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 2. Официальная документация по [Git](https://git-scm.com/book/ru/v2)
 3. Маленький курс по [Git](https://githowto.com/ru)
 4. Для практического задания ознакомиться с [документацией Markdown](https://guides.github.com/features/mastering-markdown/) - можно коротко посмотреть возможности и синтаксис, а более глубоко погрузиться на практике
