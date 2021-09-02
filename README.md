@@ -5,14 +5,25 @@
 3. Познакомитесь c основными командами (clone, add, commit, push, pull)
 4. Познакомитесь c понятием "ветка" в git: создание новой, слияние, перебазирование
 5. Познакомитесь с Markdown
-6. Создадите собственную веб-страничку при помощи github-pages
+6. Создадите собственную веб-страничку c [резюме (cv)](CV.md) при помощи github-pages
 
 ## Теория 
 1. Небольшая статья про Git: [руccкий](https://proglib.io/p/git-for-half-an-hour) [english](https://tutorialzine.com/2016/06/learn-git-in-30-minutes)
 2. Официальная документация по [Git](https://git-scm.com/book/ru/v2)
 3. Маленький курс по [Git](https://githowto.com/ru)
-4. Для практического задания ознакомиться с [документацией Markdown](https://guides.github.com/features/mastering-markdown/) - можно коротко посмотреть возможности и синтаксис, а более глубоко погрузиться на практике
-5. Короткий и понятный материал, как настроить github-pages в вашем репозитории: [ссылка на MDN](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages#%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_github), [официальная документация](https://pages.github.com/)
+4. Полезные команды для работы с [Git](https://htmlacademy.ru/blog/boost/tools/useful-commands-for-working-with-git)
+5. Для практического задания ознакомиться с [документацией Markdown](https://guides.github.com/features/mastering-markdown/) - можно коротко посмотреть возможности и синтаксис, а более глубоко погрузиться на практике
+6. Короткий и понятный материал, как настроить github-pages в вашем репозитории: [ссылка на MDN](https://developer.mozilla.org/ru/docs/Learn/Common_questions/Using_Github_pages#%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2_%D0%BD%D0%B0_github), [официальная документация](https://pages.github.com/)
+
+## Критерии оценки
+
+**Максимальный балл за задание +20**
+
+- был создан репозиторий +2
+- были созданы 2 ветки +2
+- был создан pr +2
+- правильно оформленные коммиты +4
+- правилно выполненое cv ([критерии cv](CV.md)) +10
 
 ## Задание
 1. Вам необходимо зарегистрироваться на [GitHub](https://github.com/) и установить [Git](https://git-scm.com/). Данная [статья](https://tproger.ru/translations/difference-between-git-and-github/) поможет понять разницу между Git и GitHub. Во время установки `Git` можете пропускать все шаги установки, кроме пункта, связанного с редактором по умолчанию. Хоть Vim может и не понравиться с первого раза, но это довольно полезный инструмент редактирования. В любом случае, в большинстве случаев вы все равно не будете его использовать.
@@ -33,7 +44,7 @@
 >![image](https://user-images.githubusercontent.com/42416592/131888548-a5deaa23-c6b0-4bdc-93bf-681ebd772e37.png)
 11. Создайте новую ветку gh-pages и перейдите на неё с помощью команды `git checkout -b gh-pages`.
 12. Создайте новый файл `cv.md`.
-13. В данном файле при помощи язык разметки `Markdown` создайте своё cv.
+13. В данном файле при помощи язык разметки `Markdown` создайте своё cv, [как должно выглядеть cv](CV.md).
 14. После того как закончите, залейте изменения в удалённый репозиторий при помощи команды `git push origin gh-pages`.
 15. Если всё прошло успешно, то вы увидите 2 ветки.
 >![image](https://user-images.githubusercontent.com/42416592/131748884-115f47b7-8975-4eca-8b29-eb26f90aa32d.png)
